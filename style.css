@@ -17,3 +17,7 @@
   --bg-colors: #161616;
 
 }
+body{
+  background: var(--body-color);
+  transition: background 0.3s;
+}
