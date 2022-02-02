@@ -11,3 +11,9 @@
   --bg-colors: #fff;
 
 }
+.dark-theme{
+ --body-color: #252525;
+  --nav-color: #000;
+  --bg-colors: #161616;
+
+}
