@@ -79,3 +79,15 @@ nav{
 .online{
   position: relative;
 }
+
+.online::after{
+  content: '';
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  border: 2px solid #fff;
+  background: #41db51;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
