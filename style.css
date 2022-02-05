@@ -104,3 +104,14 @@ nav{
   align-self: flex-start;
   
 }
+.right-sidebar{
+  flex-basis: 25% ;
+  position: sticky;
+  top: 70px;
+  align-self: flex-start;
+ background: var(--bg-colors);
+ padding: 20px;
+ border-radius: 4px;
+ color: #626262;
+
+}
