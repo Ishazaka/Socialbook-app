@@ -76,3 +76,6 @@ nav{
   outline: none;
   border: 0;
 }
+.online{
+  position: relative;
+}
