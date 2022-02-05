@@ -132,3 +132,6 @@ width: fit-content;
   width: 25px;
   margin-right: 15px;
 }
+.imp-links a:last-child{
+  color : #1876f2;
+}
