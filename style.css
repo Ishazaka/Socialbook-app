@@ -165,4 +165,8 @@ color: #1876f2;
 font-size: 12px;
 
 }
-
+.event{
+display: flex;
+font-size: 14px;
+margin-bottom: 20px;
+}
