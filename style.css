@@ -135,3 +135,6 @@ width: fit-content;
 .imp-links a:last-child{
   color : #1876f2;
 }
+.imp-links{
+  border-bottom: 1px solid #ccc;
+}
