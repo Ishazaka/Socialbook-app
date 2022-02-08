@@ -148,3 +148,9 @@ width: fit-content;
   color: #626262;
   font-weight: 500;
 }
+.sidebar-title{
+display: flex;
+align-items: center;
+justify-content: space-between;
+margin-bottom: 18px;
+}
