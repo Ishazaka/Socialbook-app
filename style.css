@@ -238,3 +238,11 @@ font-size: 12px;
   background-size: cover ;
   border-radius: 10px;
 }
+.story img{
+  position:  absolute;
+  width:  45px;
+  border-radius: 50% ;
+  top: 10px;
+  left: 10px;
+  border: 5px solid #1876f2; 
+}
