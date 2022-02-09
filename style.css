@@ -294,3 +294,8 @@ font-size: 12px;
   border-radius: 50%;
   margin-right: 10px;
 }
+.user-profile p{
+  margin-bottom: -5px;
+  font-weight: 500;
+  color: #626262;
+}
