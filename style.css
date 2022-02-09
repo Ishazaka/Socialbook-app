@@ -277,3 +277,10 @@ font-size: 12px;
   border: 0;
   width:35px;
 }
+.write-post-container{
+    width: 100%;
+    background : var(--bg-colors);
+    border-radius: 6px;
+    padding: 20px;
+    color: #626262;
+}
