@@ -224,3 +224,8 @@ font-size: 12px;
   top: unset;
   bottom: 4px;
 }
+.story-gallery{
+ display: flex;
+ justify-content: space-between;
+ margin-bottom: 20px;
+}
