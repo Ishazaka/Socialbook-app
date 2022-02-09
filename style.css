@@ -210,3 +210,8 @@ font-size: 12px;
   margin-bottom: 20px;
 
 }
+.online-list .online img{
+  width: 40px;
+  border-radius: 50%;
+
+}
