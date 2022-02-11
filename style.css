@@ -317,3 +317,8 @@ font-size: 12px;
   background: transparent;
   resize: none;
 }
+.add-post-links{
+display: flex;
+margin-top: 10px;
+
+}
