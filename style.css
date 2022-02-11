@@ -373,3 +373,8 @@ font-size: 15px;
   width: 18px;
   margin-right: 10px;
 }
+.activity-icons div {
+  display: inline-flex;
+  align-items: center;
+  margin-right: 30px;
+}
