@@ -363,3 +363,9 @@ font-size: 15px;
  margin-bottom: 5px; 
 
 }
+.post-row{
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+
+}
