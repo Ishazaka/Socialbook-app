@@ -353,3 +353,7 @@ margin: 15px 0;
 font-size: 15px;
 
 }
+.post-text a{
+  color: #1876f2;
+  text-decoration: none;
+}
