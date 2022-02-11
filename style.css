@@ -335,3 +335,11 @@ margin-top: 10px;
  margin-right: 10px;
 
 }
+.post-container{
+ width: 100%;
+ background : var(--bg-colors);
+border-radius: 6px;
+padding: 20px;
+color: #626262;
+margin: 20px 0;
+}
