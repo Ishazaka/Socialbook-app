@@ -357,3 +357,9 @@ font-size: 15px;
   color: #1876f2;
   text-decoration: none;
 }
+.post-img{
+ width: 100%;
+ border-radius: 4px;
+ margin-bottom: 5px; 
+
+}
