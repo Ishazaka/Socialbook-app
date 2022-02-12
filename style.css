@@ -450,3 +450,12 @@ margin: 15px 0;
   margin-right: 10px;
   border-radius: 50%;
 }
+.settings-links a{
+  display: flex;
+  flex: 1;
+  align-items: center;
+  justify-content: space-between;
+  color: #6d6a6a;
+  text-decoration: none;
+
+}
