@@ -406,3 +406,17 @@ font-size: 15px;
   padding: 10px 0 20px;
   font-size: 13px;
 }
+.settings-menu{
+  position: absolute;
+  width: 90%;
+  max-width: 350px;
+ background: var(--bg-colors);
+ box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+ border-radius: 4px;
+ overflow: hidden;
+ top: 108%;
+ right: 5%;
+ max-height: 0;
+ transition: max-height 0.3s
+
+}
