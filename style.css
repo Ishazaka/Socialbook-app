@@ -459,3 +459,16 @@ margin: 15px 0;
   text-decoration: none;
 
 }
+#dark-btn{
+
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  background: #ccc;
+  width: 45px;
+  border-radius: 15px;
+  padding: 2px 3px;
+  cursor: pointer;
+  display: flex;
+  transition: padding-left 0.3s, background 0.3s;
+}
