@@ -472,3 +472,10 @@ margin: 15px 0;
   display: flex;
   transition: padding-left 0.3s, background 0.3s;
 }
+#dark-btn span{
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background : #fff;
+  display: inline-block;
+}
