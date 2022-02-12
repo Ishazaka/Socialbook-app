@@ -433,3 +433,10 @@ text-decoration: none;
  padding: 20px;
 
 }
+.settings-menu hr{
+border: 0;
+height: 1px;
+background: #9a9a9a;
+margin: 15px 0;
+
+}
