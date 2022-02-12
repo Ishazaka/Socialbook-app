@@ -479,3 +479,7 @@ margin: 15px 0;
   background : #fff;
   display: inline-block;
 }
+#dark-btn.dark-btn-on{
+  padding-left: 23px;
+  background: rgb(56, 53, 53);
+}
