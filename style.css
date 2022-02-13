@@ -506,3 +506,9 @@ justify-content: space-between;
   display: flex;
   align-items: flex-start;
 }
+.pd-img{
+width: 100px;
+margin-right: 20px;
+border-radius: 6px;
+
+}
