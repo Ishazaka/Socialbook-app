@@ -522,3 +522,9 @@ font-weight: 600;
 
   font-size: 14px;
 }
+.pd-row div img{
+width: 25px;
+border-radius: 50%;
+margin-top: 12px;
+
+}
