@@ -488,3 +488,8 @@ margin: 15px 0;
  color: #626262;
 
 }
+.cover-img{
+ width: 100%;
+ border-radius: 6px;
+ margin-bottom: 14px;
+}
