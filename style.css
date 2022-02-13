@@ -540,3 +540,8 @@ border-radius: 3px;
 margin-left: 10px;
 cursor: pointer;
 }
+ .pd-right button img{
+
+height: 15px;
+margin-right: 10px;
+}
