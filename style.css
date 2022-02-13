@@ -545,3 +545,8 @@ cursor: pointer;
 height: 15px;
 margin-right: 10px;
 }
+.pd-right button:first-child{
+
+  background: #e4e6eb;
+  color: #000;
+}
