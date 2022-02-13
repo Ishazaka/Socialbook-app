@@ -518,3 +518,7 @@ border-radius: 6px;
 font-size: 25px;
 font-weight: 600;
 }
+.pd-row div p{
+
+  font-size: 14px;
+}
