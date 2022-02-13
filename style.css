@@ -493,3 +493,12 @@ margin: 15px 0;
  border-radius: 6px;
  margin-bottom: 14px;
 }
+.profile-details{
+  background:var( --bg-colors);
+padding: 20px;
+border-radius: 4px;
+display: flex;
+align-items: flex-start;
+justify-content: space-between;
+
+}
