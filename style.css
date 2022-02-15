@@ -643,3 +643,10 @@ cursor: pointer;
 .profile-intro p{
  font-size: 14px;
 }
+.friends-box{
+display: grid;
+ grid-template-columns: repeat(3, auto);
+ grid-gap: 10px;
+margin-top: 15px;
+
+}
