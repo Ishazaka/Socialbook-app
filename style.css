@@ -575,3 +575,6 @@ margin-top: 20px;
   flex-basis: 33%;
 
 }
+.post-col{
+  flex-basis: 65%;
+}
