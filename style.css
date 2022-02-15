@@ -578,3 +578,9 @@ margin-top: 20px;
 .post-col{
   flex-basis: 65%;
 }
+.profile-intro{
+background: var(--bg-colors);
+padding: 20px;
+margin-bottom: 20px;
+border-radius: 4px;
+}
