@@ -650,3 +650,9 @@ display: grid;
 margin-top: 15px;
 
 }
+.friends-box div img{
+width: 100%;
+cursor: pointer;
+padding-bottom: 20px;
+
+}
