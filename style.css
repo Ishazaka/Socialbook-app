@@ -587,3 +587,9 @@ border-radius: 4px;
 .profile-intro h3{
   font-weight: 700
 }
+.intro-text{
+
+  text-align: center;
+  margin: 10px 0;
+  font-size: 15px;
+}
