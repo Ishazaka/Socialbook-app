@@ -617,3 +617,9 @@ width: 26px ;
 margin-right: 10px;
 
 }
+.title-box{
+display: flex;
+align-items: center;
+justify-content: space-between;
+
+}
