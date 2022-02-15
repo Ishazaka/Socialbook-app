@@ -571,3 +571,7 @@ align-self: flex-start;
 justify-content: space-between;
 margin-top: 20px;
 }
+.info-col{
+  flex-basis: 33%;
+
+}
