@@ -656,3 +656,6 @@ cursor: pointer;
 padding-bottom: 20px;
 
 }
+.friends-box div{
+  position: relative;
+}
