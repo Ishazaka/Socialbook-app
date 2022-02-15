@@ -612,3 +612,8 @@ display: flex;
 align-items: center;
 
 }
+.profile-intro ul li img{
+width: 26px ;
+margin-right: 10px;
+
+}
