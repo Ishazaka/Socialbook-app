@@ -29,4 +29,8 @@ darkbtn.classList.remove("dark-btn-on");
 else if(localStorage.getItem("theme") == "dark"){
   darkbtn.classList.add("dark-btn-on");
  document.body.classList.add("dark-theme");
+ 
+}else{
+  localStorage.setItem("theme" , "light");
+}
 
